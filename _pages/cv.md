@@ -13,7 +13,6 @@ Education
 ======
 * B.S. in Computer Engineering, Bogazici University, 2016
 * M.S. in Computer Engineering, Bogazici University, 2018
-#* Ph.D in Cognitive Robotics, Technical University of Delft, 2023 (expected)
 
 Research Experience
 ======
