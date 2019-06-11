@@ -1,5 +1,5 @@
-pub_date	tpye	author_block	title	venue	url_slug	paper_url
-2019	Workshop	M. Imre, M. Y. Seker, E. Ugur	Sartlı Sinirsel Motor Primitifleri ile Obje Manipülasyonu Ögrenimi	ToRK	http://mertimre.github.io/files/TORK19.pdf
+pub_date	type	author_block	title	venue	url_slug	paper_url
+2019	Workshop	M. Imre, M. Y. Seker, E. Ugur	Sartli Sinirsel Motor Primitifleri ile Obje Manipulasyonu Ogrenimi	ToRK	http://mertimre.github.io/files/TORK19.pdf
 2019	Conference	M.Y. Seker, M. Imre, J. Piater, E. Ugur
 	Conditional Neural Movement Primitives	Robotics: Science and Systems (RSS 2019)	http://mertimre.github.io/files/RSS19.pdf
-2019	Conference	M. Imre, E. Oztop, Y. Nagai, E. Ugur	Affordance-Based Altruistic Robotic Architecture for Human-Robot Collaboration	Adaptive Behavior	http://mertimre.github.io/files/AB19.pdf
+2019	Journal	M. Imre, E. Oztop, Y. Nagai, E. Ugur	Affordance-Based Altruistic Robotic Architecture for Human-Robot Collaboration	Adaptive Behavior	http://mertimre.github.io/files/AB19.pdf
