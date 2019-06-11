@@ -1,4 +1,5 @@
-pub_date	title	venue	excerpt	citation	url_slug	paper_url
-2009-10-01	Paper Title Number 1	Journal 1	This paper is about the number 1. The number 2 is left for future work.	Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).	paper-title-number-1	http://academicpages.github.io/files/paper1.pdf
-2010-10-01	Paper Title Number 2	Journal 1	This paper is about the number 2. The number 3 is left for future work.	Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).	paper-title-number-2	http://academicpages.github.io/files/paper2.pdf
-2015-10-01	Paper Title Number 3	Journal 1	This paper is about the number 3. The number 4 is left for future work.	Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).	paper-title-number-3	http://academicpages.github.io/files/paper3.pdf
+pub_date	tpye	author_block	title	venue	url_slug	paper_url
+2019	Workshop	M. Imre, M. Y. Seker, E. Ugur	Sartlı Sinirsel Motor Primitifleri ile Obje Manipülasyonu Ögrenimi	ToRK	http://mertimre.github.io/files/TORK19.pdf
+2019	Conference	M.Y. Seker, M. Imre, J. Piater, E. Ugur
+	Conditional Neural Movement Primitives	Robotics: Science and Systems (RSS 2019)	http://mertimre.github.io/files/RSS19.pdf
+2019	Conference	M. Imre, E. Oztop, Y. Nagai, E. Ugur	Affordance-Based Altruistic Robotic Architecture for Human-Robot Collaboration	Adaptive Behavior	http://mertimre.github.io/files/AB19.pdf
