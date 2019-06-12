@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mert Imre"
   avatar           : "profile.png"
-  bio              : "Research Assistant"     
-					"Bogazici University"
-					"Computer Engineering Department"
+  bio              : "Research Assistant \n\n
+					 Bogazici University \n\n
+					 Computer Engineering Department"
   location         : "Istanbul, Turkey"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Turkey # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
