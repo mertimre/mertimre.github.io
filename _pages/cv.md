@@ -17,6 +17,7 @@ Education
 Research Experience
 ======
 * 2017 - 2019: Research Assistant
+  * Working in EU funded Horizon 2020 project, [Robots Understanding Their Actions by Imagining Their Effects. (IMAGINE)](https://imagine-h2020.eu/start)
   * Bogazici University, Computer Engineering Department
   * Cognition, Learning and Robotics (CoLoRs) Research Group, Istabul, Turkey 
   * Supervisor: Assist Prof. Emre Ugur
