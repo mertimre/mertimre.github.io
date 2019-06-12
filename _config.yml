@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Mert Imre"
   avatar           : "profile.png"
-  bio              : |
-					Research Assistant 
+  bio              : Research Assistant 
 					Bogazici University
 					Computer Engineering Department
   location         : "Istanbul, Turkey"
