@@ -11,11 +11,11 @@ redirect_from:
  I am currently a research assistant at the department of Computer Engineering in Bogazici University in a robotics research lab,[Cognition, Learning and Robotics (CoLoRs)](https://www.colors.boun.edu.tr) , led by Assist. Prof. [Emre Ugur](https://www.cmpe.boun.edu.tr/~emre/), 
 
 ---
-'''Research Interests:''' 
+**Research Interests:** 
 
 Robotics, Artificial Intelligence, Robot Learning Systems, Human Robot Interaction
 
 ---
-Contact
+**Contact**
 * e-mail: "mert.imre AT boun.edu.tr"
 * mail: "Bogazici Universitesi, Kuzey Kampüsü, Bilgisayar Mühendisliği Binası 31 Numaralı Oda 34342 Bebek İstanbul, Turkey" 
