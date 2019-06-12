@@ -8,3 +8,8 @@ redirect_from:
   - /About.html
 ---
 Hello 
+
+------
+Contact
+e-mail: "mert.imre AT boun.edu.tr"
+mail: "Bogazici Universitesi, Kuzey Kampüsü, Bilgisayar Mühendisliği Binası 31 Numaralı Oda 34342 Bebek İstanbul, Turkey" 
