@@ -16,7 +16,7 @@ Education
 
 Research Experience
 ======
-* 2017 - 2019: Research Assistant
+* 2017 - present: Research Assistant
   * Working in EU funded Horizon 2020 project, [Robots Understanding Their Actions by Imagining Their Effects. (IMAGINE)](https://imagine-h2020.eu/start)
   * Bogazici University, Computer Engineering Department
   * Cognition, Learning and Robotics (CoLoRs) Research Group, Istabul, Turkey 
@@ -25,12 +25,10 @@ Research Experience
 * Winter 2018 : Research Intern
   * National Institute of Information and Communications Technology
   * Nagai Group, Osaka, Japan
+  * JST CREST “Cognitive Mirroring: Assisting people with developmental disorders by means of self-understanding and social sharing of cognitive processes"
   * Supervisor: Assoc. Prof. Yukie Nagai
   
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
