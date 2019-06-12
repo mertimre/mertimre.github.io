@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /About/
   - /About.html
+  - /about
+  - /About
 
 ======
 About Me: 
