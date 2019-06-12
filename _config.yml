@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Mert Imre"
   avatar           : "profile.png"
-  bio              : "Research Assistant \" at the Department of Computer Engineering\" Bogazici University"
+  bio              : "Research Assistant
+					Department of Computer Engineering
+					Bogazici University"
   location         : "Istanbul, Turkey"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
