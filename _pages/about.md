@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /About/
   - /About.html
+
 ====
 About Me: 
 
@@ -16,5 +17,5 @@ Research Interests:
 
 ====
 Contact
-e-mail: "mert.imre AT boun.edu.tr"
-mail: "Bogazici Universitesi, Kuzey Kampüsü, Bilgisayar Mühendisliği Binası 31 Numaralı Oda 34342 Bebek İstanbul, Turkey" 
+* e-mail: "mert.imre AT boun.edu.tr"
+* mail: "Bogazici Universitesi, Kuzey Kampüsü, Bilgisayar Mühendisliği Binası 31 Numaralı Oda 34342 Bebek İstanbul, Turkey" 
