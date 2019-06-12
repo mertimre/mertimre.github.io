@@ -29,6 +29,4 @@ Research Experience
   * Supervisor: Assoc. Prof. Yukie Nagai
   
 
-Publications
-======
 
