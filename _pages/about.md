@@ -8,7 +8,7 @@ redirect_from:
   - /About.html
 
 ---
- I am currently a research assistant at the department of Computer Engineering in Bogazici University in a robotics research lab,[Cognition, Learning and Robotics (CoLoRs)](https://www.colors.boun.edu.tr) , led by Assist. Prof. [Emre Ugur](https://www.cmpe.boun.edu.tr/~emre/). 
+ I am currently a PhD student at the department of [Cognitive Robotics (COR)](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/) in TU Delft. I will be working under the supervision of [Assoc. Prof. Jens Kober](http://www.jenskober.de/). 
 
 ---
 **Research Interests:** 
@@ -17,6 +17,10 @@ Robotics, Artificial Intelligence, Robot Learning Systems, Human Robot Interacti
 
 ---
 **Contact:**
-* e-mail: mert.imre AT boun.edu.tr
+* e-mail: M.imre AT tudelft.nl
 * mail: 
-Bogazici Universitesi, Kuzey Kampüsü, Bilgisayar Mühendisliği Binası 31 Numaralı Oda 34342 Bebek İstanbul, Turkey 
+Delft University of Technology (TU Delft)
+Mekelweg 2 (3mE Building, Building Number 34)
+2628 CD Delft, The Netherlands
+
+Office: F-2-330

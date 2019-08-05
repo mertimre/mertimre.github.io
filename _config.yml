@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mert Imre"
 title_separator          : "-"
 name                     : &name "Mert Imre"
-description              : &description "Research Assistant"
+description              : &description "PhD student"
 url                      : https://mertimre.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
 repository               : "mertimre/mertimre.github.io"
@@ -82,10 +82,11 @@ analytics:
 author:
   name             : "Mert Imre"
   avatar           : "profile.png"
-  bio              : "Research Assistant \n\n
-					 Bogazici University \n\n
-					 Computer Engineering Department"
-  location         : "Istanbul, Turkey"
+  bio              : "PhD student \n\n
+					 TU Delft \n\n
+					 Cognitive Robotics (COR) \n\n
+					Department of faculty 3mE"
+  location         : "Delft, the Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
