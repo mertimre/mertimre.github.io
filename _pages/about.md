@@ -8,7 +8,9 @@ redirect_from:
   - /About.html
 
 ---
- I am currently a PhD student at the department of [Cognitive Robotics (COR)](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/) in TU Delft. I will be working under the supervision of [Assoc. Prof. Jens Kober](http://www.jenskober.de/). 
+ I am a PhD candidate in the department of [Cognitive Robotics (COR)](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/) at TU Delft. I am supervised by [Assoc. Prof. Jens Kober](http://www.jenskober.de/). My research is on manipulation learning. 
+
+I am a member of [AIRLab Delft](https://icai.ai/airlab-delft/)
 
 ---
 **Research Interests:** 
@@ -19,8 +21,6 @@ Robotics, Artificial Intelligence, Robot Learning Systems, Human Robot Interacti
 **Contact:**
 * e-mail: M.imre AT tudelft.nl
 * mail: 
-Delft University of Technology (TU Delft)
-Mekelweg 2 (3mE Building, Building Number 34)
-2628 CD Delft, The Netherlands
+Mekelweg 2 2628 CD Delft, The Netherlands
 
-Office: F-2-330
+Building: 3ME(Building 34) Office: F-2-330
